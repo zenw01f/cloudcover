@@ -4,8 +4,8 @@ Chef Resources
 ==============
 
 .. toctree::
-   :caption: Contents:
    :maxdepth: 2
+   :caption: Contents
 
 
 Tutorials
