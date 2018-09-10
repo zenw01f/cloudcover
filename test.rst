@@ -1,3 +1,12 @@
+.. title::
+   TITLE
+
+
+.. toc::
+
+.. toctree::
+   :maxdepth: 2
+
 
 This is a paragraph that contains `a link`_.
 
@@ -5,6 +14,23 @@ This is a paragraph that contains `a link`_.
 
 .. ATTENTION::
    Beware killer rabbits!
+
+.. index::
+   single: execution; context
+   module: __main__
+   module: sys
+   triple: module; search; path
+
+The execution context
+---------------------
+
+...
+
+.. glossary::
+
+   term 1 : A
+   term 2 : B
+      Definition of both terms.
 
 +------------------------+------------+----------+----------+
 | Header row, column 1   | Header 2   | Header 3 | Header 4 |
@@ -24,3 +50,13 @@ True   False  False
 False  True   False
 True   True   True
 =====  =====  =======
+
+Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_
+
+.. rubric:: Footnotes
+
+.. [#f1] Text of the first footnote.
+.. [#f2] Text of the second footnote.
+
+.. |caution| image:: warning.png
+             :alt: Warning!

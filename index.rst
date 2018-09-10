@@ -3,23 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+   .. toctree::
+      :maxdepth: 2
+      :caption: Contents:
+
 CloudCover Resource Home
 ========================
-
-.. toctree::
-   :maxdepth: 5
-   :caption: Contents:
-
+My initial (and growing) page of online links and sources.
+There is no copyrighted material here.
 
 Learning Resources
 ==================
-* :ref:**`AWS`**
+
+* :ref:`AWS`
 * :ref:`Chef`
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :ref:`Github`
+* :ref:`Docker`
