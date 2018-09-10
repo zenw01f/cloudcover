@@ -1,8 +1,6 @@
-.. _Github:
-.. Title::
-   Github
+.. _Python:
 
-Github Resources
+Python Resources
 ================
 
 .. toctree::
@@ -14,6 +12,11 @@ Tutorials
 ---------
 Links to Tutorials
 
+
 Tips, Tools and CheatSheets
 ---------------------------
-Stuff for references and/or learning Github
+Stuff for references and/or learning Python
+
+
+Sample Code
+-----------

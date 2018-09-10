@@ -11,6 +11,7 @@
    Chef
    Docker
    Github
+   Python
 
 CloudCover Resource Home
 ========================
@@ -22,5 +23,6 @@ Learning Resources
 
 * :ref:`AWS`
 * :ref:`Chef`
-* :ref:`Github`
 * :ref:`Docker`
+* :ref:`Github`
+* :ref:`Python`
