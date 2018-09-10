@@ -1,4 +1,6 @@
 .. _Chef:
+.. Title::
+   Chef
 
 Chef Resources
 ==============
