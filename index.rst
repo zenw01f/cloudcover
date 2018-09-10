@@ -13,7 +13,7 @@ CloudCover Resource Home
 
 Learning Resources
 ==================
-* :ref:`AWS`
+* :ref:**`AWS`**
 * :ref:`Chef`
 
 
