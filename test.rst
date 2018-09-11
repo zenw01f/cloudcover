@@ -12,13 +12,10 @@
    module: sys
    triple: module; search; path
 
+.. function:: install()
+   This function installs a `handler` for every signal known by the
+   `signal` module.  See the section `about-signals` for more informat
 
-
-.. glossary::
-
-   term 1 : A
-   term 2 : B
-   Definition of both terms.
 
 +------------------------+------------+----------+----------+
 | Header row, column 1   | Header 2   | Header 3 | Header 4 |
