@@ -5,7 +5,8 @@
 
 Cloud and DevOps Learning
 =========================
-This is my initial (and growing) page of online links and sources to DevOps and Cloud related links, tutorials and tools.
+This is my initial (and growing) page of online links and sources to DevOps and Cloud related links, tutorials and tools. As a note, many of the tips and toolsets which I may show will lean more towards the cyber aspect.
+
 Please note that this is still a work in progress. Notify me for any links that go 404 or have typos.
 
 BTW - Because this is freely hosted there is no copyrighted material here.
@@ -20,8 +21,6 @@ BTW - Because this is freely hosted there is no copyrighted material here.
    Docker
    Github
    Python
-   :caption: Index
-   genindex
 
 Topics of Coverage
 ==================

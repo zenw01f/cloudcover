@@ -2,7 +2,7 @@
 .. Title::
    Chef
 
-Chef Resources
+Chef
 ==============
 
 .. toctree::
@@ -19,5 +19,10 @@ Tips, Tools and CheatSheets
 ---------------------------
 Stuff for references and/or learning Chef
 
+Official Docmentation
+---------------------
+Or "the boring stuff". However you will need a resource when someone says RTFM right?
+
+* `Chef Docs <https://docs.chef.io/>`_
 
    .. _Chef Rally: https://learn.chef.io/tracks/demos-and-quickstarts#/
