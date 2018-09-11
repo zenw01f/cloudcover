@@ -18,4 +18,4 @@ Tutorials
 Tips, Tools and CheatSheets
 ---------------------------
 * AWS Presentation: `Incident Response in AWS <https://drive.google.com/file/d/1HddiyGZwnh14dRtC0jOM7_0k7MaRAnTU/view?usp=sharing>`_
-* Jerry Hargrove of `awsgeek.com <https://www.awsgeek.com/>`_` whipped up some really cool whiteboard style explanations of different AWS solutions and services.
+* Jerry Hargrove of `awsgeek.com <https://www.awsgeek.com/>`_ whipped up some really cool whiteboard style explanations of different AWS solutions and services.
