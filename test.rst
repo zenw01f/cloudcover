@@ -1,14 +1,5 @@
-.. title::
-   TITLE
 
 
-.. toc::
-
-.. toctree::
-   :maxdepth: 2
-
-
-This is a paragraph that contains `a link`_.
 
 .. _a link: http://example.com/
 
@@ -21,16 +12,13 @@ This is a paragraph that contains `a link`_.
    module: sys
    triple: module; search; path
 
-The execution context
----------------------
 
-...
 
 .. glossary::
 
    term 1 : A
    term 2 : B
-      Definition of both terms.
+   Definition of both terms.
 
 +------------------------+------------+----------+----------+
 | Header row, column 1   | Header 2   | Header 3 | Header 4 |

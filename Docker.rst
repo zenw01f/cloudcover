@@ -4,6 +4,8 @@
 
 Docker Resources
 ================
+Docker is the most ubiquitous and widely used container solution to date.
+Other container solutions exist, some are proprietary such as :term: PCF
 
 .. toctree::
    :maxdepth: 2
