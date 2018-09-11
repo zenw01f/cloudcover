@@ -17,4 +17,4 @@ Tutorials
 
 Tips, Tools and CheatSheets
 ---------------------------
-* AWS Presentation: `Incident Response in AWS <https://drive.google.com/drive/folders/1bEYznRF3hekIuAlHKI6mxqw1BJHtBb5M?usp=sharing>`_
+* AWS Presentation: `Incident Response in AWS <https://drive.google.com/file/d/1HddiyGZwnh14dRtC0jOM7_0k7MaRAnTU/view?usp=sharing>`_
