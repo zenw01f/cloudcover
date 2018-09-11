@@ -20,6 +20,8 @@ BTW - Because this is freely hosted there is no copyrighted material here.
    Docker
    Github
    Python
+   :caption: Index
+   genindex
 
 Topics of Coverage
 ==================
