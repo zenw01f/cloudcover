@@ -1,10 +1,10 @@
 .. _GitHub:
 .. Title::
-   GitHub
+   Git
 
-GitHub Resources
-================
-I don't have a lot on tutorials for Github but the Hello World page for github will quickly have you become familiar with github's basic structure.
+Git & GitHub
+============
+I don't have a lot on tutorials for Git but the Hello World page for Git will quickly have you become familiar with Git's basic structure.
 
 .. toctree::
    :maxdepth: 2
@@ -12,10 +12,11 @@ I don't have a lot on tutorials for Github but the Hello World page for github w
 
 Tutorials
 ---------
-* `Hello World! <https://guides.github.com/activities/hello-world/>`_  - Github 10min activity
-* `readwrite's <https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/>`_ GitHub for beginners along with some basic CLI commands.
+* `Hello World! <https://guides.github.com/activities/hello-world/>`_  - Git 10min activity
+* `readwrite's <https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/>`_ Git for beginners along with some basic CLI commands.
+* Youtube Videos on `Git & GitHub <https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR>`_
 
 Tips, Tools and CheatSheets
 ---------------------------
 * `Tutorialspoint <https://www.tutorialspoint.com/git/index.htm>`_ learning site that is basically a decent reference page on git commands
-* The official `GitHub CheatSheet <https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf>`_
+* The official `Git CheatSheet <https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf>`_

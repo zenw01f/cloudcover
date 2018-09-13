@@ -5,7 +5,7 @@
 Python
 ======
 Python is obviously a core competency and probably the big buzzword for the language to learn in the current decade.
-There are LOTS of resources to choose and I'm trying out Udemy course that utilizes Jupyter as a learning platform. Certainly there is plenty to choose from but I'll start listing out and curating a longer list of useful resources especially in particular for my cyber colleagues.
+There are LOTS of resources to choose and I'm trying out Udemy course that utilizes :term:`Jupyter` as a learning platform. Certainly there is plenty to choose from but I'll start listing out and curating a longer list of useful resources especially in particular for my cyber colleagues.
 
 As there's still camps for which version (2 or 3) the default references here will be for Version 3. For anything referncing 2.7.x it will be explicitly tagged or mentioned.
 
@@ -15,8 +15,7 @@ As there's still camps for which version (2 or 3) the default references here wi
 
 Tutorials
 ---------
-Links to Tutorials Here (under construction... like the rest of this site)
-
+* Free Jupyter Notebooks from `Pierian`_ that are free to download for learning Python 3. The actual lecture content is on Udemy.
 
 Tips, Tools and CheatSheets
 ---------------------------
@@ -25,3 +24,5 @@ Tips, Tools and CheatSheets
 
 Sample Code
 -----------
+
+.. _Pierian: https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
