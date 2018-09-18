@@ -12,6 +12,20 @@
    This function installs a `handler` for every signal known by the
    `signal` module.  See the section `about-signals` for more informat
 
+Title
+=====
+
+SubTitle
+--------
+
+SubSubTitle
+^^^^^^^^^^^
+
+This is a part
+##############
+
+Chapters
+********
 
 +------------------------+------------+----------+----------+
 | Header row, column 1   | Header 2   | Header 3 | Header 4 |

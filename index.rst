@@ -40,7 +40,7 @@ Topics of Coverage
 The following topics are what I'm posting here initially. I'll create more links and pages as I have time:
 
 * :ref:`AWS`
-* :ref:`Chef`
+* :ref:`Chef <Chef>`
 * :ref:`Docker`
 * :ref:`Git <Git>`
 * :ref:`Python <Python>`

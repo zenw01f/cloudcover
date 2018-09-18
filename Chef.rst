@@ -9,13 +9,14 @@
    :alt: alternate text
    :align: left
 
-Chef
-====
-
 .. toctree::
    :maxdepth: 2
    :hidden:
 
+Chef
+====
+
+|
 Tutorials
 ---------
 * `Chef Rally`_ is an online learning resource.
