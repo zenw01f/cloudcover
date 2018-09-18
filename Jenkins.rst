@@ -1,4 +1,4 @@
-.. _jenkins:
+.. _Jenkins:
 .. Title::
    Jenkins
 

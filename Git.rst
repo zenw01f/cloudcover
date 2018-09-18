@@ -1,6 +1,7 @@
-.. _GitHub:
+.. _Git:
 .. Title::
    Git
+
 .. image:: images/git-icon.png
    :height: 100px
    :width: 100 px
@@ -8,8 +9,8 @@
    :alt: alternate text
    :align: left
 
-Git & GitHub
-============
+Git
+===
 
 I don't have a lot on tutorials for Git but the Hello World page for Git will quickly have you become familiar with Git's basic structure.
 

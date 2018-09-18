@@ -1,8 +1,4 @@
 
-
-
-.. _a link: http://example.com/
-
 .. ATTENTION::
    Beware killer rabbits!
 
@@ -43,5 +39,5 @@ Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_
 .. [#f1] Text of the first footnote.
 .. [#f2] Text of the second footnote.
 
-.. |caution| image:: warning.png
+.. |caution| image:: images/git-icon.png
              :alt: Warning!

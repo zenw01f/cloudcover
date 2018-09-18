@@ -11,21 +11,6 @@ Please note that this is still a work in progress. Notify me for any links that 
 
 BTW - Because this is freely hosted there is no copyrighted material here.
 
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Cloud Computing
-   aws
-
-   :caption: DevOps
-   Chef
-   Docker
-   Git
-   jenkins
-   
-   :caption: Languages
-   Python
-
 Topics of Coverage
 ==================
 The following topics are what I'm posting here initially. I'll create more links and pages as I have time:
@@ -33,10 +18,21 @@ The following topics are what I'm posting here initially. I'll create more links
 * :ref:`AWS`
 * :ref:`Chef`
 * :ref:`Docker`
-* :ref:`Git`
-* :ref:`Jenkins`
+* :ref:`Link Git <Git>`
+* :ref:`Link Jenkins <Jenkins>`
 * :ref:`Python`
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Cloud Computing
+   :hidden:
+
+   aws
+   Chef
+   Docker
+   Git
+   Jenkins
+   Python
 
 Building These Pages (RTD)
 ==========================
