@@ -19,8 +19,9 @@ The following topics are what I'm posting here initially. I'll create more links
 * :ref:`Chef`
 * :ref:`Docker`
 * :ref:`Link Git <Git>`
-* :ref:`Link Jenkins <Jenkins>`
 * :ref:`Python`
+* :ref:`Link Jenkins <Jenkins>`
+
 
 .. toctree::
    :maxdepth: 2

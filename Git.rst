@@ -25,6 +25,7 @@ Tutorials
 * `readwrite's <https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/>`_ Git for beginners along with some basic CLI commands.
 * `Git Immersion <http://gitimmersion.com/index.html>`_ course that is a good step by step you can follow along with.
 * Youtube Videos on `Git & GitHub <https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR>`_
+* Introduction to the `GitHub Flow <https://guides.github.com/introduction/flow/>`_
 
 Tips, Tools and CheatSheets
 ---------------------------

@@ -12,7 +12,7 @@ Jenkins is an open source automation server written in Java. Jenkins helps to au
 
 Tutorials
 ---------
-* Free training direct from `Jenkins <https://jenkins.io/doc/tutorials/>`_
+* Free training direct from `Jenkins.com <https://jenkins.io/doc/tutorials/>`_
 
 Tips, Tools and CheatSheets
 ---------------------------
