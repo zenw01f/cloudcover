@@ -13,14 +13,17 @@ BTW - Because this is freely hosted there is no copyrighted material here.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
    :hidden:
-
+   :caption: Cloud Computing
    aws
+
+   :caption: DevOps
    Chef
    Docker
    Git
    jenkins
+   
+   :caption: Languages
    Python
 
 Topics of Coverage
