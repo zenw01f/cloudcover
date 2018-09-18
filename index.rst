@@ -20,6 +20,7 @@ BTW - Because this is freely hosted there is no copyrighted material here.
    Chef
    Docker
    Github
+   Jenkins
    Python
 
 Topics of Coverage
@@ -30,6 +31,7 @@ The following topics are what I'm posting here initially. I'll create more links
 * :ref:`Chef`
 * :ref:`Docker`
 * :ref:`Github`
+* :ref:`Jenkins`
 * :ref:`Python`
 
 
