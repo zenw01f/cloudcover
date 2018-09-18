@@ -19,7 +19,7 @@ BTW - Because this is freely hosted there is no copyrighted material here.
    aws
    Chef
    Docker
-   Github
+   Git
    jenkins
    Python
 
@@ -30,7 +30,7 @@ The following topics are what I'm posting here initially. I'll create more links
 * :ref:`AWS`
 * :ref:`Chef`
 * :ref:`Docker`
-* :ref:`Github`
+* :ref:`Git`
 * :ref:`Jenkins`
 * :ref:`Python`
 
