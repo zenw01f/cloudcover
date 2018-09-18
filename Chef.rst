@@ -3,12 +3,11 @@
    Chef
 
 Chef
-==============
+====
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
-
+   :hidden:
 
 Tutorials
 ---------

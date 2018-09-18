@@ -9,7 +9,7 @@ For learning purposes you can (read: Should) create an account for free that can
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :hidden:
 
 Tutorials
 ---------

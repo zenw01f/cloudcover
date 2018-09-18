@@ -9,8 +9,7 @@ Other container solutions exist, some are proprietary such as :term:`PCF`
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
-
+   :hidden:
 
 Tutorials
 ---------

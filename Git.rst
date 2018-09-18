@@ -16,7 +16,7 @@ I don't have a lot on tutorials for Git but the Hello World page for Git will qu
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :hidden:
 
 Tutorials
 ---------

@@ -11,7 +11,7 @@ As there's still camps for which version (2 or 3) the default references here wi
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :hidden:
 
 Tutorials
 ---------

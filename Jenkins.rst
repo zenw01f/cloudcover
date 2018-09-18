@@ -8,7 +8,7 @@ Jenkins is an open source automation server written in Java. Jenkins helps to au
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :hidden:
 
 Tutorials
 ---------

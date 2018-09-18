@@ -3,6 +3,30 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Cloud Computing
+   :hidden:
+
+   aws
+
+.. toctree::
+   :maxdepth: 2
+   :caption: DevOps
+   :hidden:
+
+   Chef
+   Docker
+   Git
+   Jenkins
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Languages
+   :hidden:
+
+   Python
+
 Cloud and DevOps Learning
 =========================
 This is my initial (and growing) page of online links and sources to DevOps and Cloud related links, tutorials and tools. As a note, many of the tips and toolsets which I may show will lean more towards the cyber aspect.
@@ -18,22 +42,10 @@ The following topics are what I'm posting here initially. I'll create more links
 * :ref:`AWS`
 * :ref:`Chef`
 * :ref:`Docker`
-* :ref:`Link Git <Git>`
-* :ref:`Python`
-* :ref:`Link Jenkins <Jenkins>`
+* :ref:`Git <Git>`
+* :ref:`Python <Python>`
+* :ref:`Jenkins <Jenkins>`
 
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Cloud Computing
-   :hidden:
-
-   aws
-   Chef
-   Docker
-   Git
-   Jenkins
-   Python
 
 Building These Pages (RTD)
 ==========================
