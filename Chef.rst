@@ -2,6 +2,13 @@
 .. Title::
    Chef
 
+.. image:: images/chef-logo.png
+   :height: 100px
+   :width: 100 px
+   :scale: 50 %
+   :alt: alternate text
+   :align: left
+
 Chef
 ====
 
