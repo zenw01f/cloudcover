@@ -39,3 +39,13 @@ Tips, Tools and CheatSheets
 * And a visual reference [ *just for BB8* ;-) ] of a `Git tutorial <https://marklodato.github.io/visual-git-guide/index-en.html>`_
 * This presentation is a bit more historical and technical but if you're into that stuff `here ya go <https://raw.githubusercontent.com/pluralsight/git-internals-pdf/master/drafts/peepcode-git.pdf>`_
 * `Git Everyday <https://mirrors.edge.kernel.org/pub/software/scm/git/docs/giteveryday.html>`_ is a quick reference guide that outlines 4 different types of roles for those who are working with git repositories.
+
+Shortcuts
+---------
+Some extra stuff I learned that were not on the man or help pages:
+
+git config
+^^^^^^^^^^
+Creating an alias::
+
+      $git config --global alias.s "status"
