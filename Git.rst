@@ -30,7 +30,7 @@ Official Git Tutorials
 ^^^^^^^^^^^^^^^^^^^^^^
 * `This <https://githubtraining.github.io/training-manual/#/01_getting_ready_for_class>`_ is the official GitHub Developer training manual.If you take the class from Git you'll be using this.
 * `Hello World! <https://guides.github.com/activities/hello-world/>`_  - Git 10min activity. Good for getting your repo started.
-* This is an AWESOME way to visually view how git commands move you through branches and changes your viewpoint (HEAD): `Visualizing Git <https://git-school.github.io/visualizing-git/>`
+* This is an AWESOME way to visually view how git commands move you through branches and changes your viewpoint (HEAD): `Visualizing Git <https://git-school.github.io/visualizing-git/>`_
 
 Tips, Tools and CheatSheets
 ---------------------------
