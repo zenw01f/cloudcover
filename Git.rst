@@ -40,6 +40,12 @@ Tips, Tools and CheatSheets
 * This presentation is a bit more historical and technical but if you're into that stuff `here ya go <https://raw.githubusercontent.com/pluralsight/git-internals-pdf/master/drafts/peepcode-git.pdf>`_
 * `Git Everyday <https://mirrors.edge.kernel.org/pub/software/scm/git/docs/giteveryday.html>`_ is a quick reference guide that outlines 4 different types of roles for those who are working with git repositories.
 
+Aliases
+^^^^^^^
+These are some links to useful aliases to add to your git config
+* `GitHub Flow Like a Pro - 13 Aliases <https://haacked.com/archive/2014/07/28/github-flow-aliases/>`_
+
+
 Shortcuts
 ---------
 Some extra stuff I learned that were not on the man or help pages:
@@ -49,3 +55,37 @@ git config
 Creating an alias::
 
       $git config --global alias.s "status"
+
+git checkout
+^^^^^^^^^^^^
+Create a new branch and checkout at the same time::
+
+      $git checkout -b [new branch name]
+
+git log
+^^^^^^^
+shorten git log output to just one one line::
+
+      $git log --oneline
+
+Add in a shorten status to the line with insertions/deletions/etc
+
+      $git log --oneline --shortstat
+
+
+Notes on Concepts
+-----------------
+
+I added this section for some more of the complex features of git.
+
+Hunks
+*****
+
+Hunks are more like "chunks" of changes that you can do when you issue::
+
+      git add -p
+
+You will be prompted for each changed that you want added regardless of files.
+It is a good way to review your changes or the individual changes per commit especially if you are sharing a file with other collaborators.
+
+References for the -p (Patch) option and hunks: The Git Tutorial section on `Visualizing Changes <https://githubtraining.github.io/training-manual/#/17_view_local_changes>`_ helps to describe this.
