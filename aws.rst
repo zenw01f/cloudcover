@@ -14,6 +14,7 @@ For learning purposes you can (read: Should) create an account for free that can
 Tutorials
 ---------
 * Amazon's official `Getting Started <https://aws.amazon.com/getting-started/>`_ site.
+* `flAWS <http://flaws.cloud/>`_ is a website for teaching common mistakes made when implementing AWS in the format of a CTF
 
 Tips, Tools and CheatSheets
 ---------------------------
