@@ -24,5 +24,5 @@ Tips, Tools & CheatSheets
 
 Sample Code, Lectures & Practice Functions
 ------------------------------------------
-.. _Pierian: https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
-.. _LearnPython: https://realpython.com/
+* _Pierian: https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
+* _LearnPython: https://realpython.com/
