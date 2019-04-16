@@ -17,12 +17,13 @@ Tutorials
 ---------
 * Free Jupyter Notebooks from `Pierian`_ that are free to download for learning Python 3. The actual lecture content is on Udemy.
 
-Tips, Tools and CheatSheets
+Tips, Tools & CheatSheets
 ---------------------------
 * The powerful and useful `requests <http://docs.python-requests.org/en/master/>`_ module for python
 
 
-Sample Code
------------
+Sample Code, Lectures & Practice Functions
+------------------------------------------
 
 .. _Pierian: https://github.com/Pierian-Data/Complete-Python-3-Bootcamp
+.. _LearnPython: https://realpython.com/
