@@ -55,3 +55,15 @@ Lorem ipsum [#f1]_ dolor sit amet ... [#f2]_
 
 .. |caution| image:: images/git-icon.png
              :alt: Warning!
+
+::
+
+  pip install setuptools wheel numpy scipy scikit-learn -U
+
+Refer to `Python-package`_ folder for the installation guide.
+
+To verify your installation, try to ``import lightgbm`` in Python:
+
+::
+
+  import lightgbm as lgb
