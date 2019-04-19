@@ -64,6 +64,6 @@ Refer to `Python-package`_ folder for the installation guide.
 
 To verify your installation, try to ``import lightgbm`` in Python:
 
-::
+.. code:: python
 
-  import lightgbm as lgb
+    import numpy as np
