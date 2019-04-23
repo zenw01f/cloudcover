@@ -1,6 +1,6 @@
 .. _Openshift:
 .. Title::
-   Openshift (Minishift)
+   Openshift
 
 _Openshift Container Platform
 =======
