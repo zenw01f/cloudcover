@@ -19,6 +19,7 @@
    Docker
    Git
    Jenkins
+   Openshift
 
 .. toctree::
    :maxdepth: 2
@@ -45,6 +46,7 @@ The following topics are what I'm posting here initially. I'll create more links
 * :ref:`Git <Git>`
 * :ref:`Python <Python>`
 * :ref:`Jenkins <Jenkins>`
+* :ref:`Openshift <Openshift>`
 
 
 Building These Pages (RTD)
