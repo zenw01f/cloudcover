@@ -2,8 +2,8 @@
 .. Title::
    Openshift
 
-_Openshift Container Platform
-=======
+Openshift Container Platform
+============================
 an on-premises platform as a service built around Docker containers orchestrated and managed by Kubernetes on a foundation of Red Hat Enterprise Linux
 
 .. toctree::
