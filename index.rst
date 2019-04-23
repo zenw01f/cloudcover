@@ -19,7 +19,15 @@
    Docker
    Git
    Jenkins
-   Openshift
+
+.. toctree::
+   :maxdepth: 3
+   :caption: Openshift Container Platform
+   :hidden:
+
+   Openshift/intro
+   Openshift/Environment
+   Openshift/Commands
 
 .. toctree::
    :maxdepth: 2
