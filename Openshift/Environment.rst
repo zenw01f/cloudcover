@@ -11,7 +11,7 @@ oc
 --
 In order to run the oc command after starting Minishift run the following command:
 
-.. code-block::
+::
 
   minishift oc-env
 
