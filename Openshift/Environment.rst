@@ -1,18 +1,18 @@
-.. _Openshift:
-.. Title::
-   Openshift
+Environment
+===========
+The following environment instructions are specific for **Minishift.
 
-Openshift Container Platform
-============================
-an on-premises platform as a service built around Docker containers orchestrated and managed by Kubernetes on a foundation of Red Hat Enterprise Linux
 
-.. toctree::
-   :maxdepth: 2
-   :hidden:
+MacOS
+-----
+Having Docker installed is not necessary but can serve as a repository for your container images
 
-Tutorials
----------
-* Katacoda (Kubernetes) `Tutorials <https://www.katacoda.com/courses/kubernetes>`_
+oc
+--
+In order to run the oc command after starting Minishift run the following command:
 
-Tips, Tools and CheatSheets
----------------------------
+.. code-block::
+
+  minishift oc-env
+
+At this point the oc command will be available without calling it from the absolute directory
