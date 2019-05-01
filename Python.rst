@@ -26,3 +26,4 @@ Sample Code, Lectures & Practice Functions
 ------------------------------------------
 * `Pierian <https://github.com/Pierian-Data/Complete-Python-3-Bootcamp>`_
 * `LearnPython <https://realpython.com/>`_
+* `W3Schools <https://www.w3schools.com/python>`_
