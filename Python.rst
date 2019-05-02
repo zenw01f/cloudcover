@@ -28,3 +28,4 @@ Sample Code, Lectures & Practice Functions
 * `LearnPython <https://realpython.com/>`_
 * `W3Schools <https://www.w3schools.com/python>`_
 * `Code Academy <https://www.codeacademy.com>`_
+* `Python Central <https://www.pythoncentral.io>`_
