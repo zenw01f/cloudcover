@@ -40,13 +40,15 @@ Cloud and DevOps Learning
 =========================
 This is my initial (and growing) page of online links and sources to DevOps and Cloud related links, tutorials and tools. As a note, many of the tips and toolsets which I may show will lean more towards the cyber aspect.
 
-Please note that this is still a work in progress. Notify me for any links that go 404 or have typos.
+Please note that this is still a work in progress. 
+Notify me for any links that go 404 or have typos.
 
 BTW - Because this is freely hosted there is no copyrighted material here.
 
 Topics of Coverage
 ==================
-The following topics are what I'm posting here initially. I'll create more links and pages as I have time:
+The following topics are what I'm posting here initially. I'll create more links and pages as I have time
+As of Aug 2021 I'm picking this project up again and updating these topics:
 
 * :ref:`AWS`
 * :ref:`Chef <Chef>`
