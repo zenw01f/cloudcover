@@ -4,8 +4,8 @@
 .. glossary::
    :sorted:
 
-   PCF
-      Pivotal Cloud Foundry is a black box PaaS solution purchased by VMware
+   OCP
+      Openshift Container Platform
 
    PaaS
       Platform as a Service

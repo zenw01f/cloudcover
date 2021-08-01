@@ -55,6 +55,7 @@ The following topics are what I'm posting here initially. I'll create more links
 * :ref:`Python <Python>`
 * :ref:`Jenkins <Jenkins>`
 * :ref:`Openshift <Openshift>`
+* Splunk (in the works)
 
 
 Building These Pages (RTD)
